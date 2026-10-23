@@ -81,7 +81,7 @@ jupyter notebook analiz.ipynb
 
 - Yıllık ortalama veri kullanıldı; yıl içindeki sert kur şokları ortalamada yumuşar.
 - Göreli PPP baz yıla duyarlıdır: 2005'in "dengede" olduğu varsayılır.
-- "Yastık altı" senaryosu faizi yok sayar. Faizin etkisi [kredi-faiz-hesaplayici](https://github.com/mehmetvrl32-cpu/kredi-faiz-hesaplayici) projesinde ele alınıyor.
+- "Yastık altı" senaryosu faizi yok sayar. Faizin etkisi [kredi-faiz-hesaplayici](https://github.com/mehmet-vural/kredi-faiz-hesaplayici) projesinde ele alınıyor.
 
 > ⚠️ Bu çalışma eğitim amaçlıdır, yatırım tavsiyesi değildir.
 
